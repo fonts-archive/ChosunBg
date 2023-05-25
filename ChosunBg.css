@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ChosunBg';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosunBg/ChosunBg.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosunBg/ChosunBg.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosunBg/ChosunBg.ttf') format('truetype');
+}
